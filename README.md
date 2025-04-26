@@ -139,7 +139,7 @@ Menggunakan metrik MAE, MSE, dan R² untuk membandingkan performa model.
 
 ## Visualisasi Tambahan
 Visualisasi pentingnya fitur dari Random Forest untuk memahami faktor yang paling berpengaruh terhadap risiko readmisi:  
-![Pentingnya Fitur (Random Forest)](https://github.com/MHafisAfrizal/Predictive-Analytics/raw/main/feature.png)  
+![Pentingnya Fitur (Random Forest)](https://github.com/MHafisAfrizal/Predictive-Analytics/raw/main/Feature.png)  
 
 *(Ganti URL di atas dengan URL asli setelah upload gambar ke GitHub)*
 
@@ -156,11 +156,3 @@ Proyek ini berhasil memprediksi risiko readmisi pasien diabetes menggunakan pend
 Kode bersih, terdokumentasi dengan baik, dan dapat dieksekusi tanpa kesalahan.
 
 ---
-
-## Cara Submit
-1. Simpan laporan ini sebagai `laporan_proyek.md`.
-2. Upload gambar visualisasi ke GitHub untuk mendapatkan URL, lalu masukkan ke laporan.
-3. Pastikan `prediksi_readmisi_diabetes.ipynb` dan `prediksi_readmisi_diabetes.py` sudah ada di repo.
-4. Buat ZIP:
-   ```bash
-   zip -r submission.zip laporan_proyek.md prediksi_readmisi_diabetes.py prediksi_readmisi_diabetes.ipynb
